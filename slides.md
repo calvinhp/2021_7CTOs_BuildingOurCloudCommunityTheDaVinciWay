@@ -7,19 +7,23 @@ date: AWS Community Day Midwest 2019
 # Hey! {data-background-image="images/family.jpg"}
 
 ::: notes
-- Hey! It's Calvin
 - IndyPy and IndyAWS Founder and general lover of building tech community
 
-We help tech teams of rapidly growing organizations regain momentum by taking on python app development projects and helping them leverage AWS.
+### Help Tech Teams
+### Rapidly Growing Orgs
+### Gain Momentum
+### Python App Dev
+### Leverage AWS
 
 ## we all need to get to know each other, let's all say hello.
 
+We help tech teams of rapidly growing organizations regain momentum by taking on python app development projects and helping them leverage AWS.
 :::
 
 # Speed of Change {.semi-filtered data-background-image="images/deepracer.png"}
 
 ::: notes
-change out image to Deep Racer
+## Let's Dive in...
 :::
 
 # {.original data-background-image="images/transistor1.jpg"}
@@ -40,9 +44,9 @@ A modern transistor is much smaller than the wavelength of light, which means yo
 # {.original data-background-image="images/Apple_A12X.jpg"}
 
 ::: notes
-my laptop has a quad core i7 with over 2.1 billion transistors
-A12 Bionic, for the iPhone XS, XS Max and XR. The 7nm chip has 6.9 billion transistors.
-A12X Bionic, for the iPad Pro 10 billion transistors.
+- my laptop has a quad core i7 with over 2.1 billion transistors
+- A12 Bionic, for the iPhone XS, XS Max and XR. The 7nm chip has 6.9 billion transistors.
+- A12X Bionic, for the iPad Pro 10 billion transistors.
 :::
 
 # {.original data-background-image="images/nec_v20.jpg"}
@@ -81,7 +85,9 @@ Photo: https://www.flickr.com/photos/stockcatalog/40770465691
 # Speed of connectivity {.semi-filtered data-background-image="images/connectivity.jpg"}
 
 ::: notes
-penetration of mobile devices numbers
+- Mobile phone user penetration worldwide is expected to reach 63,4% in 2019
+- Desktop internet usage is falling & mobile internet usage is rising
+- Consumers downloaded 178 billion apps in 2017—and that number is climbing
 :::
 
 # Speed of data transfer {.semi-filtered data-background-image="images/data_transfer.jpg"}
@@ -97,7 +103,6 @@ Photo: https://flic.kr/p/Tgiwa5
 # Speed of adoption {.semi-filtered data-background-image="images/iot_adoption.png"}
 
 ::: notes
-  - Stats of smart device usage
 - Serverless and containers
   - How many are leveraging Serverless today?
     - Very specialized services rather than basic building blocks
@@ -120,6 +125,9 @@ http://rcnt.eu/un8bg
 # {.original data-background-image="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif"}
 
 ::: notes
+
+# Your Org is becoming a Software Company
+
 - AV Company
 - IFDA
 :::
