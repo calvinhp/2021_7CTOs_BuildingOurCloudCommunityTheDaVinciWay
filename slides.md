@@ -12,6 +12,10 @@ keywords:
     - Code
 ---
 
+# Building Our Cloud Community The Da Vinci Way
+## Calvin Hendryx-Parker
+## June 2021 Elevate/7CTOs Community Call
+
 # Hey! {data-background-image="images/family.jpg"}
 
 ::: notes
@@ -66,9 +70,9 @@ This goes even higher for GPUs like the Nvidia 30 series at 28 Billion
 # {.original data-background-image="images/nec_v20.jpg"}
 
 ::: notes
-Thinking back...
+## Thinking back...
 
-# What was your first computer?
+## What was your first computer?
 
 ## 1983 TI-99/4A
 
@@ -100,8 +104,9 @@ Photo: https://www.flickr.com/photos/stockcatalog/40770465691
 
 ::: notes
 - Mobile phone user penetration worldwide is expected to reach 63,4% in 2019
+- Almost half the population of the planet has a Smart Phone
 - Desktop internet usage is falling & mobile internet usage is rising
-- Consumers downloaded 178 billion apps in 2017—and that number is climbing
+- Consumers downloaded 218 billion apps in 2020—and that number is climbing
 :::
 
 # Speed of data transfer {.semi-filtered data-background-image="images/data_transfer.jpg"}
@@ -256,7 +261,7 @@ Plone Conf and PyCon Story
 
 So many of his items are about getting someone to show him something. Innovation does not happen alone.
 
-# Little know facts participation
+## Little know facts participation
 
 - Margaret Valtie is a Tulane Alumna and that was where my first conference was!  (small world, but that is the thing as we will see)
 :::
@@ -285,10 +290,10 @@ End with the Dimmi Dimmi Dimmi quote
 
 # {.semi-filtered data-background-image="images/head_in_clouds.png"} 
 
-## Keep on dreaming 
-
 ::: notes
-# Keep your head in the clouds
+Keep on dreaming 
+
+Keep your head in the clouds
 
 Use today to exercise that same level of curiosity, we have the experts here and they honestly can't wait to talk to you.
 :::
