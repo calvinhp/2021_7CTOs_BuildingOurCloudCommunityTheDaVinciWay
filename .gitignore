@@ -23,3 +23,10 @@ reveal.js-master/
 test/
 .travis.yml
 index.html
+
+.github/
+.npmignore
+dist/
+examples/
+gulpfile.js
+

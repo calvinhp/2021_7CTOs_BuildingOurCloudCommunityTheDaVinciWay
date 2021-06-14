@@ -1,7 +1,15 @@
 ---
-title: Building Our Cloud Community The Da Vinci Way
+title-prefix: Six Feet Up
+pagetitle: Building Our Cloud Community The Da Vinci Way
 author: Calvin Hendryx-Parker, CTO, Six Feet Up
-date: AWS Community Day Midwest 2019
+author-meta:
+    - Calvin Hendryx-Parker
+date: 7CTOs Community Briefing
+date-meta: 2021
+keywords:
+    - Community
+    - Cloud
+    - Code
 ---
 
 # Hey! {data-background-image="images/family.jpg"}
@@ -23,13 +31,14 @@ We help tech teams of rapidly growing organizations regain momentum by taking on
 # Speed of Change {.semi-filtered data-background-image="images/deepracer.png"}
 
 ::: notes
-## Let's Dive in...
+Let's Dive in...
 :::
 
 # {.original data-background-image="images/transistor1.jpg"}
 
 ::: notes
-## Transistor story from Larry my 80 year old neighbor
+
+Transistor story from Larry my 80 year old neighbor
 
 Simon Winchester the author of the Perfectionists Looks At History Of Precision Engineering
 https://www.npr.org/2018/05/07/608590826/in-the-perfectionists-simon-winchester-looks-at-history-of-precision-engineering
@@ -39,6 +48,7 @@ A transistor when it was invented in 1947 was about as big as your hand.
 There are more transistors in the world today than there are leaves on all the trees in all the world.
 
 A modern transistor is much smaller than the wavelength of light, which means you can't possibly even see it.
+
 :::
 
 # {.original data-background-image="images/Apple_A12X.jpg"}
@@ -46,7 +56,11 @@ A modern transistor is much smaller than the wavelength of light, which means yo
 ::: notes
 - my laptop has a quad core i7 with over 2.1 billion transistors
 - A12 Bionic, for the iPhone XS, XS Max and XR. The 7nm chip has 6.9 billion transistors.
-- A12X Bionic, for the iPad Pro 10 billion transistors.
+- A12X Bionic, for the iPad Pro 10 billion transistors. 7nm
+- A14 Bionic 11.8 Billion 5nm
+- M1 16 Billion
+
+This goes even higher for GPUs like the Nvidia 30 series at 28 Billion
 :::
 
 # {.original data-background-image="images/nec_v20.jpg"}
@@ -71,7 +85,7 @@ Picture By Yaca2671 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/in
 # Speed of innovation {.semi-filtered data-background-image="images/amazon_alexa.jpg"}
 
 ::: notes
-# Show of hands:
+Show of hands:
 ## who has an alexa at home?
 ## Keep your hand up if you have more than 2, 3, 4, 5....
 
@@ -93,9 +107,11 @@ Photo: https://www.flickr.com/photos/stockcatalog/40770465691
 # Speed of data transfer {.semi-filtered data-background-image="images/data_transfer.jpg"}
 
 ::: notes
-re:Invent announcement of new C5n instance instance type that will transfer 100 gigabits/sec
+re:Invent announcement in 2018 of new C5n instance instance type that will transfer 100 gigabits/sec
 
-Multi gigabit LTE speeds
+This new C6gn now supports double the EBS bandwidth of those C5n instances
+
+Multi gigabit LTE speeds and not 5G
 
 Photo: https://flic.kr/p/Tgiwa5
 :::
@@ -107,26 +123,38 @@ Photo: https://flic.kr/p/Tgiwa5
   - How many are leveraging Serverless today?
     - Very specialized services rather than basic building blocks
         - Developers don’t have to be a sysadmin
-    - AWS works with open source tools
+    - AWS works with open source tools and has multiple internal and extenral OS teams
         - AWS offers managed versions of open source tools in the cloud
 :::
 
 # {.original data-background-image="images/a-day-in-data.jpg"}
 
 ::: notes
-# From Raconteur in April 2019
-- 500 million tweets are sent
+From Raconteur in April 2019
+
+- 500 million tweets are sent, That translates to almost two billion per year
 - 294 billion emails are sent
 - 4 petabytes of data are created on Facebook
 
-http://rcnt.eu/un8bg
+https://www.raconteur.net/infographics/a-day-in-data/
+
+:::
+
+# {.original data-background-image="images/20-data-never-sleeps-8-final-01-Resize.jpg" data-background-size="contain"}
+
+::: notes
+Fast forward past a year with the pandemic
+
+https://www.domo.com/learn/infographic/data-never-sleeps-8
+
+By the end of 2020, 44 zettabytes will make up the entire digital universe.
 :::
 
 # {.original data-background-image="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif"}
 
 ::: notes
 
-# Your Org is becoming a Software Company
+Your Org is becoming a Software Company
 
 - AV Company
 - IFDA
@@ -174,6 +202,7 @@ Man has dealt with periods of rapid change in the past such as the Renaissance
 
 ::: notes
 We need to go back and see how this wise man would have handled this problem
+
 - Renaissance man or a Polymath
 :::
 
@@ -212,7 +241,7 @@ about the measurement of the sun promised me by Maestro Giovanni Francese
 # {.original data-background-image="images/ploneconf.jpg"}
 
 ::: notes
-# Plone Conf and PyCon Story
+Plone Conf and PyCon Story
 
 - My First Conference (Plone Conference 1, October 15-17, 2003, New Orleans)
   - Followed by my second conf (PyCon 2004, the Second PyCon ever with about 250 at GWU, March 24-26, 2004)
@@ -228,13 +257,14 @@ about the measurement of the sun promised me by Maestro Giovanni Francese
 So many of his items are about getting someone to show him something. Innovation does not happen alone.
 
 # Little know facts participation
+
 - Margaret Valtie is a Tulane Alumna and that was where my first conference was!  (small world, but that is the thing as we will see)
 :::
 
 # Together {.semi-filtered data-background-image="images/team.png"}
 
 ::: notes
-# Great community
+Great community
 
   - Shout out to Dave, Ross, Randal
   - Shout out to regional organizing meetups
