@@ -89,7 +89,8 @@ Picture By Yaca2671 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/in
 # Speed of innovation {.semi-filtered data-background-image="images/amazon_alexa.jpg"}
 
 ::: notes
-Show of hands:
+Show of hands
+
 ## who has an alexa at home?
 ## Keep your hand up if you have more than 2, 3, 4, 5....
 
@@ -116,7 +117,7 @@ re:Invent announcement in 2018 of new C5n instance instance type that will trans
 
 This new C6gn now supports double the EBS bandwidth of those C5n instances
 
-Multi gigabit LTE speeds and not 5G
+Multi gigabit LTE speeds and now 5G
 
 Photo: https://flic.kr/p/Tgiwa5
 :::
@@ -187,9 +188,13 @@ Amazon is really part of the problem here, how many of us expect to order someth
 
 ::: notes
 All growth happens in stages
+
 experience comes with a price of complexity
+
 You work hard and are not making progress
+
 Work smarter and not harder
+
 achieve a new state of simplicity
 :::
 
@@ -215,6 +220,11 @@ We need to go back and see how this wise man would have handled this problem
 
 ::: notes
 Historian Toby Lester in his 2012 book Da Vinci's Ghost...
+
+NPR Link in the notes
+
+* https://www.npr.org/2012/03/08/148235387/da-vincis-ghost-manifest-in-the-vitruvian-man
+* https://www.npr.org/sections/krulwich/2011/11/18/142467882/leonardos-to-do-list
 
 ## A Few Items as an Example
 :::
@@ -286,11 +296,14 @@ Great community
 
 ::: notes
 End with the Dimmi Dimmi Dimmi quote
+
+On one page of his notebooks from the early 1480's, you can see he has gotten a new pen and he's just doodling, testing it out, and as his mind wanders free, what does he write?
 :::
 
 # {.semi-filtered data-background-image="images/head_in_clouds.png"} 
 
 ::: notes
+
 Keep on dreaming 
 
 Keep your head in the clouds
